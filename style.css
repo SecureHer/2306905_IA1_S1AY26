@@ -123,7 +123,7 @@ padding-left: 60px;
 }
 
 .banner {
-    background-image: url('Assests/Mountains.jpg');
+    background-image: url('Mountains.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -155,7 +155,7 @@ background: linear-gradient(to bottom, #cae8ff, #6699cc, #2a5298);
 
 .hero-box {
     flex: 1;
-    background-image: url('Assests/ginni2.jpg');
+    background-image: url('ginni2.jpg');
     background-size: cover;
     background-position: center;
     padding: 40px;
@@ -233,7 +233,7 @@ background: linear-gradient(to bottom, #cae8ff, #6699cc, #2a5298);
 
 .anime-box {
     flex: 1;
-    background-image: url('Assests/anime.jpg');
+    background-image: url('anime.jpg');
     background-size: cover;
     background-position: center;
     color: var(--white);
@@ -263,7 +263,7 @@ background: linear-gradient(to bottom, #cae8ff, #6699cc, #2a5298);
 
 .hobbies-box {
     flex: 1;
-    background-image: url('Assests/hobbies.jpg'); 
+    background-image: url('hobbies.jpg'); 
     background-size: cover;        
     background-position: center;   
     padding: 30px;
@@ -293,7 +293,7 @@ background: linear-gradient(to bottom, #cae8ff, #6699cc, #2a5298);
 
 .likes-box {
     flex: 1;
-    background-image: url('Assests/hearts.jpg'); 
+    background-image: url('hearts.jpg'); 
     background-size: cover;        
     background-position: center;   
     padding: 30px;
@@ -465,3 +465,4 @@ flex-direction: column;
     }
 
 }
+
